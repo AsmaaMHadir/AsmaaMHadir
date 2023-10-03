@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asmaa Hadir</h1>
 <h3 align="center">A Machine Learning and data science enthusiast from Morocco</h3>
 
-- 🔭 I’m currently working on **Contributing to open source projects!**
+- 🔭 I’m currently working on **Contributing to AI/ML open source projects!**
 
-- 🌱 I’m currently learning **SQL| PowerBI| Statistical learning | GitHub Actions | PyTorch**
+- 🌱 I’m currently learning **SQL| PowerBI | React**
 
 - 🤝 I’m looking for help with [Music Genre Classifier](https://github.com/AsmaaMHadir/Music-genre-classification)
 

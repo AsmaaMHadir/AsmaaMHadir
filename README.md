@@ -3,19 +3,17 @@
 
 - 🔭 I’m currently working on **Contributing to AI/ML open source projects!**
 
-- 🌱 I’m currently learning **SQL| PowerBI | React**
+- 🌱 I’m currently learning **T-SQL| PowerBI | React**
 
-- 🤝 I’m looking for help with [Music Genre Classifier](https://github.com/AsmaaMHadir/Music-genre-classification)
-
-- 👨‍💻 All of my projects are available at [https://github.com/AsmaaMHadir?tab=repositories](https://github.com/AsmaaMHadir?tab=repositories)
+- 👨‍💻 All of my projects are available at [asmaamhadir.github.io](https://asmaamhadir.github.io/)
 
 - 📝 I regularly post Python lessons for Beginners on [https://shorturl.at/iHKL2](https://shorturl.at/iHKL2)
 
-- 💬 Ask me about **Python, Flask, Exploratory Data Analysis, Scikit-learn and building an API for your ML app**
+- 💬 Ask me about **Python, Exploratory Data Analysis, Data Visualization, Machine learning frameworks and development**
 
 - 📫 How to reach me **asmaahadir11@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VCdbBIFaZnmq4UDvGVeYLvgENFSEYo3y/view?usp=sharing](https://drive.google.com/file/d/1VCdbBIFaZnmq4UDvGVeYLvgENFSEYo3y/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VCdbBIFaZnmq4UDvGVeYLvgENFSEYo3y/view?usp=sharing)
 
 - ⚡ Fun fact **I love listening to House music minimal techno music while coding, and coffee ☕**
 

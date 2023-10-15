@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Contributing to AI/ML open source projects!**
 
-- 🌱 I’m currently learning **T-SQL| PowerBI | React**
+- 🌱 I’m currently learning **React | PyTorch**
 
 - 📄 Know about my professional experiences: [resume](https://drive.google.com/file/d/1VCdbBIFaZnmq4UDvGVeYLvgENFSEYo3y/view?usp=sharing)
 

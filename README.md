@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **T-SQL| PowerBI | React**
 
+- - 📄 Know about my professional experiences: [resume](https://drive.google.com/file/d/1VCdbBIFaZnmq4UDvGVeYLvgENFSEYo3y/view?usp=sharing)
+
 - 👨‍💻 All of my projects are available at [asmaamhadir.github.io](https://asmaamhadir.github.io/)
 
 - 📝 I regularly post Python lessons for Beginners on [https://shorturl.at/iHKL2](https://shorturl.at/iHKL2)
@@ -13,7 +15,6 @@
 
 - 📫 How to reach me **asmaahadir11@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VCdbBIFaZnmq4UDvGVeYLvgENFSEYo3y/view?usp=sharing)
 
 - ⚡ Fun fact **I love listening to House music minimal techno music while coding, and coffee ☕**
 

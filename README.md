@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **T-SQL| PowerBI | React**
 
-- - 📄 Know about my professional experiences: [resume](https://drive.google.com/file/d/1VCdbBIFaZnmq4UDvGVeYLvgENFSEYo3y/view?usp=sharing)
+- 📄 Know about my professional experiences: [resume](https://drive.google.com/file/d/1VCdbBIFaZnmq4UDvGVeYLvgENFSEYo3y/view?usp=sharing)
 
 - 👨‍💻 All of my projects are available at [asmaamhadir.github.io](https://asmaamhadir.github.io/)
 

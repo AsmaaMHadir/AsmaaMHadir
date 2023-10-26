@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Asmaa Hadir</h1>
-<h3 align="center">A Machine Learning and data science enthusiast from Morocco</h3>
+<h3 align="center">A Computer Scientist from Morocco</h3>
 
 - 🔭 I’m currently working on **Contributing to AI/ML open source projects!**
 
-- 🌱 I’m currently learning **React | PyTorch**
+- 🌱 I’m currently learning **PyTorch**
 
-- 📄 Know about my professional experiences: [resume](https://drive.google.com/file/d/1VCdbBIFaZnmq4UDvGVeYLvgENFSEYo3y/view?usp=sharing)
+- 📄 Know about my professional experiences: [resume](https://asmaahadir.tiiny.site/)
 
-- 👨‍💻 All of my projects are available at [asmaamhadir.github.io](https://asmaamhadir.github.io/)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/AsmaaMHadir?tab=repositories)
 
 - 📝 I regularly post Python lessons for Beginners on [https://shorturl.at/iHKL2](https://shorturl.at/iHKL2)
 
@@ -16,7 +16,7 @@
 - 📫 How to reach me **asmaahadir11@gmail.com**
 
 
-- ⚡ Fun fact **I love listening to House music minimal techno music while coding, and coffee ☕**
+- ⚡ Fun fact **I'm still thinking ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

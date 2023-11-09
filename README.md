@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Contributing to AI/ML open source projects!**
 
-- 🌱 I’m currently learning **PyTorch**
+- 🌱 I’m currently learning **NextJs**
 
 - 📄 Know about my professional experiences: [resume](https://asmaahadir.tiiny.site/)
 

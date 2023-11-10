@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 📄 Know about my professional experiences: [resume](https://asmaahadir.tiiny.site/)
+- 📄 Know about my professional experiences: [resume](https://scarlet-nike-27.tiiny.site/)
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/AsmaaMHadir?tab=repositories)
 
-- 📝 I regularly post Python lessons for Beginners on [https://shorturl.at/iHKL2](https://shorturl.at/iHKL2)
+- 📝 I regularly post Python lessons for Beginners on [edited]
 
 - 💬 Ask me about **Python, Exploratory Data Analysis, Data Visualization, Machine learning frameworks and development**
 

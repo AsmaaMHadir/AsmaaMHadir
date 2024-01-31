@@ -9,9 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/AsmaaMHadir?tab=repositories)
 
-- 📝 I regularly post Python lessons for Beginners on [edited]
-
-- 💬 Ask me about **Python, Exploratory Data Analysis, Data Visualization, Machine learning frameworks and development**
+- 💬 Ask me about **Python, Generative AI, LangChain, Chainlit, Deep Learning, Exploratory Data Analysis, Data Visualization**
 
 - 📫 How to reach me **asmaahadir11@gmail.com**
 
